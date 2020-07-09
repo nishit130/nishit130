@@ -1,1 +1,1 @@
-![Into](intro.gif)
+![Into](into.gif)

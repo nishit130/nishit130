@@ -48,6 +48,11 @@ I am currently pursuing my B.Tech degree in Computer Science (2023) from K J Som
 
 ### Gitlab Activity
 <!-- GITLAB:START -->
+- [Nishit Patel pushed to project branch search-by-crtime at Nishit Patel / Files](https://gitlab.gnome.org/nis130/nautilus/-/commit/b001b7678b5d90143d7eb5c49ce6debbbd550d50)
+- [Nishit Patel commented on merge request !693 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/693#note_1249302)
+- [Nishit Patel commented on merge request !693 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/693#note_1248687)
+- [Nishit Patel opened merge request !701: Add tests for nautilus-search-engine ...](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/701)
+- [Nishit Patel pushed new project branch test at Nishit Patel / Files](https://gitlab.gnome.org/nis130/nautilus/-/commits/test)
 <!-- GITLAB:END -->
 
 <h3 align="left">Languages and Tools:</h3>

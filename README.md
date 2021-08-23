@@ -40,6 +40,10 @@ I am currently pursuing my B.Tech degree in Computer Science (2023) from K J Som
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GSoC final submission](http://www.nishitpatel.tech/gsoc'21/2021/08/21/gsoc-final-submission.html)
+- [GSoC Project update part II](http://www.nishitpatel.tech/gsoc'21/2021/08/02/gsoc-project-update-part-ii.html)
+- [GSoC Project update part I](http://www.nishitpatel.tech/gsoc'21/2021/06/29/gsoc-project-update.html)
+- [Beginning my GSoC Journey](http://www.nishitpatel.tech/gsoc'21/2021/05/31/start-of-gsoc-jouney.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>

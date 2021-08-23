@@ -15,3 +15,13 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://www.nishitpatel.tech/feed.xml"
+    update-readme-with-gitlab:
+        name: Update this repo's README with latest activity from gitlab
+        runs-on: ubuntu-latest
+        steps:
+          - uses: actions/checkout@v2
+          - uses: gautamkrishnar/blog-post-workflow@master
+            with:
+              comment_tag_name: "GITLAB"
+              commit_message: "Updated readme with the latest gitlab data"
+              feed_list: "https://gitlab.gnome.org/nis130.atom?feed_token=wnmx8qSxC8hnW9KgxB5s"

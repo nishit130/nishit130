@@ -32,7 +32,7 @@ I am currently pursuing my B.Tech degree in Computer Science (2023) from K J Som
 
 <h2> Visitor's count 👀</h2>
 
-<p><img src="https://profile-counter.glitch.me/{nis130}/count.svg" alt="mrpandya :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{nis130}/count.svg" alt="nis130 :: Visitor's Count" /></p>
 
 <br>
 

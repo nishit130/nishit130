@@ -26,4 +26,4 @@ jobs:
               committer_username: "Nishit Patel"
               committer_email: "nishitlimbani130@gmail.com"
               commit_message: "Updated readme with the latest gitlab data"
-              feed_list: "https://gitlab.gnome.org/nis130.atom?feed_token=wnmx8qSxC8hnW9KgxB5s"
+              feed_list: "https://gitlab.gnome.org/nis130.atom"

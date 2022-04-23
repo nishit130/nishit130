@@ -11,7 +11,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: nis130/blog-post-workflow@master
               with: 
                 max_post_count: "4"
                 feed_list: "https://www.nishitpatel.tech/feed.xml"
@@ -20,7 +20,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v2
-          - uses: gautamkrishnar/blog-post-workflow@master
+          - uses: nis130/blog-post-workflow@master
             with:
               comment_tag_name: "GITLAB"
               committer_username: "Nishit Patel"

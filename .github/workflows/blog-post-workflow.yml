@@ -15,6 +15,7 @@ jobs:
             - uses: nis130/blog-post-workflow@master
               with: 
                 max_post_count: "4"
+                enable_keepalive: false
                 feed_list: "https://www.nishitpatel.tech/feed.xml"
     update-readme-with-gitlab:
         name: Update this repo's README with latest activity from gitlab

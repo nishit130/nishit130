@@ -22,7 +22,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - uses: actions/checkout@v2
-          - uses: nis130/blog-post-workflow@master
+          - uses: gautamkrishnar/blog-post-workflow@master
             with:
               comment_tag_name: "GITLAB"
               committer_username: "Nishit Patel"

@@ -14,7 +14,7 @@ I am currently pursuing my B.Tech degree in Computer Science (2023) from K J Som
 
 - :footprints: &nbsp; My **GNOME gitlab profile** is available [here](https://gitlab.gnome.org/nis130)
 
--  📝 I regularly write articles on [nishitpatel.tech](https://www.nishitpatel.tech/blog)
+-  📝 I regularly write articles on [nishitpatel.dev](https://www.nishitpatel.dev/blog)
 
 - 🔭 &nbsp; Find me on google at [here](https://www.google.com/search?q=intext%3Anis130+%7C+intext%3Anishit130+%7C+inurl%3Anishitpatel.tech&sxsrf=ALeKk020W7-LHZcJzpIegXa4DWvuBRof1A%3A1629721738373&ei=ipQjYc7-FeW1mgeB1LCICQ&oq=intext%3Anis130+%7C+intext%3Anishit130+%7C+inurl%3Anishitpatel.tech&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFQAFgAYPePAWgEcAB4AIABhQGIAYUBkgEDMC4xmAEAwAEB&sclient=gws-wiz&ved=0ahUKEwjO67DKksfyAhXlmuYKHQEqDJEQ4dUDCA4&uact=5)
 

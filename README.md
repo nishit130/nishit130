@@ -50,7 +50,6 @@ I am currently pursuing my B.Tech degree in Computer Science (2023) from K J Som
 <!-- GITLAB:START -->
 - [Nishit Patel deleted project branch search-by-crtime at Nishit Patel / Files](https://gitlab.gnome.org/nis130/nautilus/-/commits/search-by-crtime)
 - [Nishit Patel closed issue #1761: Search by creation time at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1761)
-- [Nishit Patel commented on issue #203 at GNOME / LocalSearch](https://gitlab.gnome.org/GNOME/localsearch/-/issues/203#note_1316614)
 <!-- GITLAB:END -->
 
 <h3 align="left">Languages and Tools:</h3>
